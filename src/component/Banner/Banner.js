@@ -13,7 +13,7 @@ const Banner = () => {
                     for our patients</h5>
                 <h6>Need professional help? Our support staff will answer your questions. Visit us Now or Make an Appointment!</h6>
 
-                <button type="button" className="btn btn-outline-dark mt-5 px-4">MAKE AN APPOINTMENT</button>
+                <button type="button" className="btn btn-outline-dark mt-5 px-4">MAKE AN APPOINTMENT <i className="fas fa-arrow-right"></i></button>
             </div>
         </div>
     );

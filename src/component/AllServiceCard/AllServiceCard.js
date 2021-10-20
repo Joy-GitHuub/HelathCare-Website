@@ -18,7 +18,7 @@ const AllServiceCard = (props) => {
                     </div>
                     <div className="card-footer">
                         <Link to={url}>
-                            <button type="button" className="btn btn-success px-5">Details</button>
+                            <button type="button" className="btn btn-success px-5">Details <i className="fas fa-arrow-right"></i></button>
                         </Link>
                     </div>
                 </div>
