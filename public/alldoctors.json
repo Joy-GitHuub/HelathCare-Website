@@ -1,0 +1,44 @@
+[
+    {
+        "id": "doctor1",
+        "role": "Cardiology",
+        "img": "https://i.ibb.co/gP3qm7v/doctor-img-1.jpg",
+        "doctorName": "Dr.Rony K"
+    },
+    {
+        "id": "doctor2",
+        "role": "Kidny Specialist",
+        "img": "https://image.freepik.com/free-photo/portrait-smiling-handsome-male-doctor-man_171337-5055.jpg",
+        "doctorName": "Dr.Max Y"
+    },
+    {
+        "id": "doctor3",
+        "role": "Radiologiest",
+        "img": "https://pngimg.com/uploads/doctor/doctor_PNG15992.png",
+        "doctorName": "Dr.Even O"
+    },
+    {
+        "id": "doctor4",
+        "role": "Medicine & Chest Specialist",
+        "img": "https://pngimg.com/uploads/doctor/doctor_PNG16019.png",
+        "doctorName": "Dr.Alva D"
+    },
+    {
+        "id": "doctor5",
+        "role": "Dental Specialist",
+        "img": "https://indianriveracupuncture.com/wp-content/uploads/2018/07/doctor-img-01-free-img.jpg",
+        "doctorName": "Dr.Alex G"
+    },
+    {
+        "id": "doctor6",
+        "role": "Dental Specialist",
+        "img": "https://i.ibb.co/XFkhKSK/doctor-img-2.jpg",
+        "doctorName": "Dr.Mac K"
+    },
+    {
+        "id": "doctor7",
+        "role": "Dental Specialist",
+        "img": "https://i.ibb.co/d2csWsp/doctor-img-3.jpg",
+        "doctorName": "Dr.Ozi A"
+    }
+]

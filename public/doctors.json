@@ -1,0 +1,20 @@
+[
+    {
+        "id": "doctor1",
+        "role": "Cardiology",
+        "img": "https://i.ibb.co/gP3qm7v/doctor-img-1.jpg",
+        "doctorName": "Dr.Rony K"
+    },
+    {
+        "id": "doctor2",
+        "role": "Neurology",
+        "doctorName": "Dr. Eva A",
+        "img": "https://i.ibb.co/XFkhKSK/doctor-img-2.jpg"
+    },
+    {
+        "doctorName": "Dr. Sonia K",
+        "img": "https://i.ibb.co/d2csWsp/doctor-img-3.jpg",
+        "id": "doctor3",
+        "role": "Urology"
+    }
+]
